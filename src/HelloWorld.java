@@ -15,6 +15,8 @@ public class HelloWorld {
 			accumulator+=i;
 		}
 		System.out.println(accumulator);
+		
+		System.out.println("This is to demo the collaboration");
 	}
 
 }
